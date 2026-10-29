@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # Hey,Im Aaron
 
@@ -45,6 +45,16 @@ sometimes I end up building my own version of something that already exists.
       <p>My attempt at building an operating system with my own kernel. still a LONG way to go.</p>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="assets/acelinux(1).png" width="105" alt="AceLinux">
+    </td>
+    <td>
+      <h3>AceLinux</h3>
+      <code>future project</code>
+      <p>My own Linux distribution, built around the Linux kernel with its own identity and system management.</p>
+    </td>
+  </tr>
 </table>
 
 ### things i'm into
@@ -60,7 +70,6 @@ OSdev           kernels, bootloaders, operating systems
 ---
 
 <div align="center">
-
 
 <sub>most of my projects start with my brain itching thinking of a good idea </sub>
 
