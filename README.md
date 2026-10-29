@@ -10,8 +10,7 @@
 </div>
 
 ---
-
-i like messing around with linux, old hardware and making things that probably already exist.
+I like messing around with linux, old hardware and making things that probably already exist.
 
 currently running nixos.
 
@@ -50,4 +49,4 @@ imperative commands. declarative foundations.
 
 ---
 
-<sub>most of my projects start with "wait, could i make that myself?"</sub>
+<sub>most of my projects start with my brain itching thinking of a good idea </sub>
