@@ -3,7 +3,7 @@
 
 <img src="assets/AceNix.png" width="125" alt="AceNix">
 
-# aaron
+# Aaron
 
 15 · austria · linux / osdev / hardware
 
