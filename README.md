@@ -51,8 +51,8 @@ sometimes I end up building my own version of something that already exists.
     </td>
     <td>
       <h3>AceLinux</h3>
-      <code>future project</code>
-      <p>My own Linux distribution, built around the Linux kernel with its own identity and system management.</p>
+      <code>side-project</code>
+      <p>My own Linux distribution, built around the Linux kernel with its own identity and AceNix's system management.</p>
     </td>
   </tr>
 </table>
