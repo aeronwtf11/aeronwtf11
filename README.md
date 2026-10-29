@@ -14,7 +14,7 @@ sometimes I end up building my own version of something that already exists.
 
 </div>
 
-### currently working on
+### currently working on:
 
 <table>
   <tr>
@@ -32,7 +32,7 @@ sometimes I end up building my own version of something that already exists.
   </tr>
 </table>
 
-### other projects
+### other projects:
 
 <table>
   <tr>
