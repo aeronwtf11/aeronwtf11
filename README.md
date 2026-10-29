@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/AceNix(2).png" width="125" alt="AceNix">
+<img src="assets/AceNix.png" width="125" alt="AceNix">
 
 # aaron
 
@@ -18,7 +18,7 @@ currently running nixos.
 ### main project
 
 <a href="https://github.com/aeronwtf11/AceNix">
-  <img src="assets/AceNix(2).png" width="85" align="left" alt="AceNix">
+  <img src="assets/AceNix.png" width="85" align="left" alt="AceNix">
 </a>
 
 **[AceNix](https://github.com/aeronwtf11/AceNix)**
