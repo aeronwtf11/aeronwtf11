@@ -47,7 +47,7 @@ sometimes I end up building my own version of something that already exists.
   </tr>
   <tr>
     <td align="center" width="140">
-      <img src="assets/acelinux(1).png" width="105" alt="AceLinux">
+      <img src="assets/acelinux.png" width="105" alt="AceLinux">
     </td>
     <td>
       <h3>AceLinux</h3>
