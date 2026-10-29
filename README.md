@@ -1,52 +1,67 @@
+ <div align="center">
 
-<div align="center">
+# aaron
 
-<img src="assets/AceNix.png" width="125" alt="AceNix">
+`15` · `austria` · `nixos`
 
-# Aaron
+**linux / security research / engineering / osdev**
 
-15 · austria · linux / osdev / hardware
+---
+
+i like messing around with linux, writing code, taking hardware apart and figuring out how things work.
+
+sometimes i end up building my own version of something that already exists.
 
 </div>
 
----
-I like messing around with linux, old hardware and making things that probably already exist.
-
-currently running nixos.
-
-### main project
-
-<a href="https://github.com/aeronwtf11/AceNix">
-  <img src="assets/AceNix.png" width="85" align="left" alt="AceNix">
-</a>
-
-**[AceNix](https://github.com/aeronwtf11/AceNix)**
-
-making nixos less annoying to manage.
-
-imperative commands. declarative foundations.
-
-<br clear="left">
-
-### other stuff
+### currently working on
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <img src="assets/aceos(2).png" width="100" alt="AceOS">
-      <br>
-      <b>AceOS</b>
-      <br>
-      <sub>custom os project</sub>
+    <td align="center" width="140">
+      <a href="https://github.com/aeronwtf11/AceNix">
+        <img src="assets/AceNix(2).png" width="115" alt="AceNix">
+      </a>
     </td>
-    <td align="center" width="50%">
-      <img src="assets/aether-white.png" width="100" alt="Aether">
-      <br>
-      <b>Aether</b>
+    <td>
+      <h3><a href="https://github.com/aeronwtf11/AceNix">AceNix</a></h3>
+      <code>main project</code>
+      <p>a nixos management cli, built to make managing nixos a little less painful.</p>
+      <sub>imperative commands. declarative foundations.</sub>
     </td>
   </tr>
 </table>
 
+### other projects
+
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="assets/aceos(2).png" width="105" alt="AceOS">
+    </td>
+    <td>
+      <h3>AceOS</h3>
+      <code>long-term project</code>
+      <p>my attempt at building an operating system with my own kernel. still a long way to go.</p>
+    </td>
+  </tr>
+</table>
+
+### things i'm into
+
+```text
+linux           nixos, system internals, unix
+programming     python, c, and whatever i need
+security        research, exploits, reverse engineering
+engineering     electronics, hardware, embedded systems
+osdev           kernels, bootloaders, operating systems
+```
+
 ---
 
+<div align="center">
+
+
 <sub>most of my projects start with my brain itching thinking of a good idea </sub>
+
+</div>
