@@ -12,7 +12,12 @@ I like messing around with Linux, writing code, taking hardware apart and figuri
 
 sometimes I end up building my own version of something that already exists.
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anastasis1175&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="stats" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aeronwtf11&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="stats" /></p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aeronwtf11&hide_border=true&count_private=true&show_icons=true&theme=radical&bg_color=0D1117" alt="aeronwtf11 GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aeronwtf11&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" alt="aeronwtf11 top languages" />
+</p>
 
 
 </div>
