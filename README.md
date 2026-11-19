@@ -2,7 +2,7 @@
 
 # Hey,Im Aaron!
 
-`15` · `austria` · `cats?`
+ · `austria` · `cats?`
 
 **Linux / security research / engineering / osdev**
 
